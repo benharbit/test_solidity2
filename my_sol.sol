@@ -20,7 +20,7 @@ contract LiquidityManagementArbitrum is IUniswapV3SwapCallback {
 
     address constant poolAddress_weth_usdc_500 = 0xC31E54c7a869B9FcBEcc14363CF510d1c41fa443;
     //token 0 = weth
-    //token 1 = usdc
+    //token 2 = usdc
 
     address constant poolAddress_weth_usdt_500 = 0x641C00A822e8b671738d32a431a4Fb6074E5c79d;
     //token 0 = weth
